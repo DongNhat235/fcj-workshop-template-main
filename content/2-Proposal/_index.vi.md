@@ -92,7 +92,7 @@ Kiến trúc BravelSport gồm ba khu vực chính:
 static/images/2-Proposal/bravelsport_aws_architecture.png
 -->
 
-![Kiến trúc AWS BravelSport](/images/2-Proposal/bravelsport_aws_architecture.png)
+{{< img "images/2-Proposal/bravelsport_aws_architecture.png" "Kiến trúc AWS BravelSport" >}}
 
 #### 4.1. Edge và Frontend
 

@@ -91,7 +91,7 @@ Place the architecture image at:
 static/images/2-Proposal/bravelsport_aws_architecture.png
 -->
 
-![BravelSport AWS Architecture](/images/2-Proposal/bravelsport_aws_architecture.png)
+{{< img "images/2-Proposal/bravelsport_aws_architecture.png" "BravelSport AWS Architecture" >}}
 
 #### 4.1. Edge and Frontend
 
