@@ -34,7 +34,7 @@ Công nghệ chính:
 
 
 
-![Trang chủ BravelSport](/images/5-Workshop/5.1-Workshop-overview/bravelsport-homepage.jpg)
+{{< img "images/5-Workshop/5.1-Workshop-overview/bravelsport-homepage.jpg" "Trang chủ BravelSport" >}}
 
 ## Mục tiêu workshop
 
@@ -75,7 +75,7 @@ EC2 không nhận request từ người dùng, không nối với ALB và không
 
 
 
-![Luồng build và triển khai](/images/5-Workshop/5.1-Workshop-overview/deployment-flow.jpg)
+{{< img "images/5-Workshop/5.1-Workshop-overview/deployment-flow.jpg" "Luồng build và triển khai" >}}
 
 ## Vai trò ECS Fargate
 
@@ -95,7 +95,7 @@ Kiến trúc gồm các vùng logic:
 
 
 
-![BravelSport AWS Architecture](/images/5-Workshop/architecture/bravelsport-aws-architecture.png)
+{{< img "images/5-Workshop/architecture/bravelsport-aws-architecture.png" "BravelSport AWS Architecture" >}}
 
 ## Các luồng hoạt động
 

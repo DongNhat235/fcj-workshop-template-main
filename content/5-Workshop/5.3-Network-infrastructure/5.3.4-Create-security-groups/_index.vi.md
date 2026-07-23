@@ -168,7 +168,7 @@ Che:
 - Public IP quản trị
 -->
 
-![Security Group BravelSport](/images/5-Workshop/5.3-Network-infrastructure/create-security-groups.png)
+{{< img "images/5-Workshop/5.3-Network-infrastructure/create-security-groups.png" "Security Group BravelSport" >}}
 
 ## Kiểm tra kết quả
 

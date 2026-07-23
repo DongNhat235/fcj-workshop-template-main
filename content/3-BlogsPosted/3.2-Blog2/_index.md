@@ -14,7 +14,7 @@ So, how can employees upload, download, and access files on Amazon S3 in a simpl
 
 AWS offers an ideal architecture to solve this: AWS Transfer Family Web Apps combined with AWS IAM Identity Center, Amazon S3 Access Grants, Amazon S3, AWS CloudTrail, and Terraform. Transfer Family Web Apps provides a web-based portal that allows authenticated users to browse, upload, and download S3 data seamlessly without needing access to the AWS Console or requiring the IT team to build a complex custom internal portal from scratch.
 
-![Image from blog](/images/3-blog/blog2.png)
+{{< img "images/3-Blog/blog2.png" "Image from blog" >}}
 
 
 **Architectural Overview**

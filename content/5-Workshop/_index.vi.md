@@ -25,7 +25,7 @@ Workshop này mô tả **kiến trúc mục tiêu và quy trình triển khai th
 - Amazon EC2 Ubuntu chỉ là máy build và triển khai, không nhận request production.
 - S3 Media là phần chuyển đổi hoặc mở rộng của workshop vì mã nguồn hiện có hỗ trợ Cloudinary và local `/uploads`.
 
-![BravelSport AWS Architecture](/images/5-Workshop/architecture/bravelsport-aws-architecture.png)
+{{< img "images/2-Proposal/bravelsport_aws_architecture.png" "BravelSport AWS Architecture" >}}
 
 ## Nội dung workshop
 

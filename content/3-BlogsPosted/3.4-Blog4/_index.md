@@ -31,6 +31,6 @@ The key takeaway from this diagram is highly important: ransomware resilience is
 **In conclusion**
 AWS and Elastio empower businesses to build a much more comprehensive data protection strategy against ransomware—allowing them to maintain business continuity while ensuring they always have a clean, trustworthy copy of data ready for recovery when disaster strikes.
 
-![image from blog](/images/3-blog/blog4.png)
+{{< img "images/3-Blog/blog4.png" "image from blog" >}}
 
 [...link...](https://www.facebook.com/groups/awsstudygroupfcj/posts/2205365060228454/?notif_id=1783407018744128&notif_t=group_post_approved)

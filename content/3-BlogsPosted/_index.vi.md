@@ -16,3 +16,6 @@ Bài viết trình bày cách xây dựng cổng truy cập dữ liệu trên Am
 
 ###  [Blog 3 - Hiện đại hóa SignalR với AWS AppSync Event API](3.3-Blog3/)
 Bài viết giới thiệu cách thay thế kiến trúc SignalR truyền thống bằng AWS AppSync Event API để xử lý dữ liệu thời gian thực, giảm tải cho backend và nâng cao khả năng mở rộng.
+
+###  [Blog 4 - AWS and Elastio deliver comprehensive ransomware resilience](3.4-Blog4/)
+Chào mọi người, mình tìm hiểu được một chủ đề khá hay về AWS and Elastio deliver comprehensive ransomware resilience — nói đơn giản là cách AWS kết hợp với Elastio để giúp doanh nghiệp tăng khả năng chống chịu và khôi phục dữ liệu khi gặp tấn công ransomware.

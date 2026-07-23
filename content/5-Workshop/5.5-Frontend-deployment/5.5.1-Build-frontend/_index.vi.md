@@ -73,7 +73,7 @@ Chụp npm run build thành công và thư mục dist. Che domain staging hoặc
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![Build React Vite frontend](/images/5-Workshop/5.5-Frontend-deployment/build-frontend.jpg)
+{{< img "images/5-Workshop/5.5-Frontend-deployment/build-frontend.jpg" "Build React Vite frontend" >}}
 
 ## Kiểm tra kết quả
 

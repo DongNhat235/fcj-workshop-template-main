@@ -34,7 +34,7 @@ Main technologies:
 
 
 
-![BravelSport homepage](/images/5-Workshop/5.1-Workshop-overview/bravelsport-homepage.jpg)
+{{< img "images/5-Workshop/5.1-Workshop-overview/diagram1.png" "BravelSport homepage" >}}
 
 ## Workshop objectives
 
@@ -75,7 +75,7 @@ EC2 does not receive user requests, does not connect to the ALB, and does not ru
 
 
 
-![Build and deployment flow](/images/5-Workshop/5.1-Workshop-overview/deployment-flow.jpg)
+{{< img "images/5-Workshop/5.1-Workshop-overview/diagram1.png" "Build and deployment flow" >}}
 
 ## Role of ECS Fargate
 
@@ -95,7 +95,7 @@ The architecture is divided into the following logical areas:
 
 
 
-![BravelSport AWS Architecture](/images/5-Workshop/architecture/bravelsport-aws-architecture.png)
+{{< img "images/5-Workshop/architecture/bravelsport-aws-architecture.png" "BravelSport AWS Architecture" >}}
 
 ## Operational flows
 

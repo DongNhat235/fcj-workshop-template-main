@@ -43,6 +43,6 @@ The key takeaway from this diagram is that modernizing SignalR doesn't mean aban
 **Conclusion**
 AWS AppSync Event API offers a compelling alternative for .NET/React applications that require real-time, pub/sub communication. With this architecture, your backend stays lean, your frontend still gets instant updates, and AWS manages the complex WebSocket infrastructure behind the scenes.
 
-![images from blog](/images/3-blog/blog3.png)
+{{< img "images/3-Blog/blog3.png" "images from blog" >}}
 
 [...Link...](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2206455833452710/?rdid=geoKRLwi2jjUs3tZ#)

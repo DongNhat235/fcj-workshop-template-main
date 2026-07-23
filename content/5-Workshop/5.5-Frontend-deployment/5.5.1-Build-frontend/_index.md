@@ -73,7 +73,7 @@ Capture the successful npm run build output and the dist directory. Mask any sta
 Information to mask: Account ID, ARN, public IP address, token, cookie, secret, and user data if displayed.
 -->
 
-![Build the React Vite frontend](/images/5-Workshop/5.5-Frontend-deployment/build-frontend.jpg)
+{{< img "images/5-Workshop/5.5-Frontend-deployment/build-frontend.jpg" "Build the React Vite frontend" >}}
 
 ## Verification
 

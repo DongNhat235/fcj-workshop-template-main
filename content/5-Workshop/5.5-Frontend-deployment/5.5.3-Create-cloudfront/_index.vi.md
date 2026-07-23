@@ -50,7 +50,7 @@ Chụp Bucket Policy sau khi tạo OAC.
 Che Account ID và Distribution ID.
 -->
 
-![CloudFront OAC Bucket Policy](/images/5-Workshop/5.5-Frontend-deployment/cloudfront-oac-policy.png)
+{{< img "images/5-Workshop/5.5-Frontend-deployment/cloudfront-oac-policy.png" "CloudFront OAC Bucket Policy" >}}
 
 ### 2. Tạo ALB Origin
 
@@ -162,7 +162,7 @@ Chụp CloudFront Distribution sau khi hoàn tất.
 Che Distribution ID, Account ID và ALB DNS Name.
 -->
 
-![CloudFront Distribution](/images/5-Workshop/5.5-Frontend-deployment/create-cloudfront.png)
+{{< img "images/5-Workshop/5.5-Frontend-deployment/create-cloudfront.png" "CloudFront Distribution" >}}
 
 ## Kiểm tra kết quả
 

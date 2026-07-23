@@ -31,7 +31,7 @@ Number Verification API (OTP-less Authentication): This is an incredibly sleek t
 The most elegant aspect of this approach is how we inject Vonage's verification logic automatically into the Amazon Cognito workflow using Lambda Triggers (background functions executed during authentication events).
 
 The architectural workflow diagram is structured as follows:
-![Images from blog](/images/3-Blog/blog1.1.png)
+{{< img "images/3-Blog/blog1.1.png" "Images from blog" >}}
 
 
 [Link: https://www.facebook.com/groups/awsstudygroupfcj/permalink/2198070834291210/?rdid=PREeEMbVCKRCaNWF#](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2198070834291210/?rdid=VlvP22SCSb6CQ27b#)

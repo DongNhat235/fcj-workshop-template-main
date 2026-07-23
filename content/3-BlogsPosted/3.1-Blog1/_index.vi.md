@@ -26,7 +26,7 @@ Number Verification API (Xác thực không cần OTP): Đây là công nghệ c
 3. Kiến Trúc Giải Pháp: Sự Kết Hợp Giữa Amazon Cognito và Vonage
 Điểm hay nhất của bài toán này là cách chúng ta đưa logic kiểm tra của Vonage vào trong luồng chạy của Amazon Cognito một cách tự động thông qua các Lambda Triggers (hàm chạy ngầm khi có sự kiện xác thực).
 Sơ đồ luồng xử lý kiến trúc như sau:
-![anh tu bai blog](/images/3-Blog/blog1.1.png)
+{{< img "images/3-Blog/blog1.1.png" "anh tu bai blog" >}}
 
 [Link: https://www.facebook.com/groups/awsstudygroupfcj/permalink/2198070834291210/?rdid=PREeEMbVCKRCaNWF#](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2198070834291210/?rdid=VlvP22SCSb6CQ27b#)
 

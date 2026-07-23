@@ -16,3 +16,6 @@ The article demonstrates how to build a secure data access portal on Amazon S3 f
 
 ###  [Blog 3 - Modernizing SignalR with AWS AppSync Event API](3.3-Blog3/)
 The article highlights how to replace a traditional SignalR architecture with the AWS AppSync Event API to handle real-time data, thereby offloading the backend and significantly improving system scalability.
+
+###  [Blog 4 - AWS and Elastio deliver comprehensive ransomware resilience](3.4-Blog4/)
+Hi everyone, I’ve recently learned about a pretty fascinating topic: how AWS and Elastio deliver comprehensive ransomware resilience. Put simply, it’s about how AWS teams up with Elastio to help businesses boost their ability to withstand and recover data from ransomware attacks.

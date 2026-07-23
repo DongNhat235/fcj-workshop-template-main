@@ -25,7 +25,7 @@ This workshop describes the **target architecture and hands-on deployment proces
 - The Amazon EC2 Ubuntu instance is only a build and deployment machine; it does not receive production requests.
 - S3 Media is a migration or extension component in this workshop because the current source code supports Cloudinary and local `/uploads` storage.
 
-![BravelSport AWS Architecture](/images/5-Workshop/architecture/bravelsport-aws-architecture.png)
+{{< img "images/2-Proposal/bravelsport_aws_architecture.png" "BravelSport AWS Architecture" >}}
 
 ## Workshop contents
 

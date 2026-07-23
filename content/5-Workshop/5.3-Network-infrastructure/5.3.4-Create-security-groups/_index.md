@@ -168,7 +168,7 @@ Mask:
 - Management public IP
 -->
 
-![BravelSport Security Groups](/images/5-Workshop/5.3-Network-infrastructure/create-security-groups.png)
+{{< img "images/5-Workshop/5.3-Network-infrastructure/create-security-groups.png" "BravelSport Security Groups" >}}
 
 ## Verification
 

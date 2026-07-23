@@ -65,9 +65,9 @@ Chụp danh sách hoặc trang chi tiết hai role. Che ARN và Account ID đầ
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![Tạo ECS IAM roles - bước 1](/images/5-Workshop/5.4-Backend-deployment/create-iam-roles1.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/create-iam-roles1.png" "Tạo ECS IAM roles - bước 1" >}}
 
-![Tạo ECS IAM roles - bước 2](/images/5-Workshop/5.4-Backend-deployment/create-iam-roles2.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/create-iam-roles2.png" "Tạo ECS IAM roles - bước 2" >}}
 
 ## Kiểm tra kết quả
 

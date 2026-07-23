@@ -38,11 +38,11 @@ Cho phép Public Subnet kết nối Internet và Private Subnet có outbound qua
 3. Associate với hai Private Subnet.
 
 
-![Cấu hình routing - bước 1](/images/5-Workshop/5.3-Network-infrastructure/configure-routing1.png)
+{{< img "images/5-Workshop/5.3-Network-infrastructure/configure-routing1.png" "Cấu hình routing - bước 1" >}}
 
-![Cấu hình routing - bước 2](/images/5-Workshop/5.3-Network-infrastructure/configure-routing2.png)
+{{< img "images/5-Workshop/5.3-Network-infrastructure/configure-routing2.png" "Cấu hình routing - bước 2" >}}
 
-![Cấu hình routing - bước 3](/images/5-Workshop/5.3-Network-infrastructure/configure-routing3.png)
+{{< img "images/5-Workshop/5.3-Network-infrastructure/configure-routing3.png" "Cấu hình routing - bước 3" >}}
 
 ### Lưu ý
 

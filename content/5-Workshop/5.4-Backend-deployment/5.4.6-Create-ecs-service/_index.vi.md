@@ -89,7 +89,7 @@ Chụp danh sách ECS Service.
 Che Account ID và ARN nếu xuất hiện.
 -->
 
-![ECS Service](/images/5-Workshop/5.4-Backend-deployment/create-ecs-service.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/create-ecs-service.png" "ECS Service" >}}
 
 <!-- CHÈN ẢNH TẠI ĐÂY:
 Chụp trang chi tiết Service.
@@ -104,7 +104,7 @@ Chụp trang chi tiết Service.
 Che Task ID, Account ID và ARN nếu cần.
 -->
 
-![ECS Service Overview](/images/5-Workshop/5.4-Backend-deployment/ecs-service-overview.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/ecs-service-overview.png" "ECS Service Overview" >}}
 
 ## Kiểm tra kết quả
 
@@ -124,7 +124,7 @@ Chụp service với VPC, private subnets, public IP off và Target Group. Che A
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![Tạo ECS Service](/images/5-Workshop/5.4-Backend-deployment/create-ecs-service.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/create-ecs-service.png" "Tạo ECS Service" >}}
 
 ### Kiểm tra task
 
@@ -135,7 +135,7 @@ Chụp task Running. Che task ARN, private IP và Account ID.
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![ECS Task Running](/images/5-Workshop/5.4-Backend-deployment/ecs-task-running.jpg)
+{{< img "images/5-Workshop/5.4-Backend-deployment/ecs-task-running.jpg" "ECS Task Running" >}}
 
 ### Kiểm tra Target Group
 
@@ -146,7 +146,7 @@ Chụp target health status Healthy. Che target private IP và resource ID.
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![Healthy ECS target](/images/5-Workshop/5.4-Backend-deployment/ecs-target-healthy.png)
+{{< img "images/5-Workshop/5.4-Backend-deployment/ecs-target-healthy.png" "Healthy ECS target" >}}
 
 ### Kiểm tra log
 
@@ -157,7 +157,7 @@ Chụp log stream của task. Che user data, JWT, email, payment payload và dat
 Thông tin cần che: Account ID, ARN, địa chỉ IP công khai, token, cookie, secret và dữ liệu người dùng nếu xuất hiện.
 -->
 
-![Container logs](/images/5-Workshop/5.4-Backend-deployment/container-logs.jpg)
+{{< img "images/5-Workshop/5.4-Backend-deployment/container-logs.jpg" "Container logs" >}}
 
 ## Kiểm tra kết quả
 

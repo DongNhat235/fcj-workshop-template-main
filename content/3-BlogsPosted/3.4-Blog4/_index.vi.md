@@ -32,6 +32,6 @@ Từ sơ đồ có thể rút ra một ý rất quan trọng: ransomware resilie
 **Kết luận**
 AWS và Elastio giúp doanh nghiệp xây dựng một chiến lược bảo vệ dữ liệu toàn diện hơn trước ransomware: vừa duy trì hoạt động kinh doanh, vừa đảm bảo có bản sao dữ liệu sạch và đáng tin cậy để khôi phục khi xảy ra sự cố.
 
-![anh tu bai blog](/images/3-blog/blog4.png)
+{{< img "images/3-Blog/blog4.png" "anh tu bai blog" >}}
 
 [...link...](https://www.facebook.com/groups/awsstudygroupfcj/posts/2205365060228454/?notif_id=1783407018744128&notif_t=group_post_approved)

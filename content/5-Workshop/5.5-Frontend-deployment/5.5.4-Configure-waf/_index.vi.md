@@ -81,7 +81,7 @@ Chụp Web ACL sau khi tạo.
 Che Account ID, ARN và Distribution ID.
 -->
 
-![AWS WAF Web ACL](/images/5-Workshop/5.5-Frontend-deployment/configure-waf.png)
+{{< img "images/5-Workshop/5.5-Frontend-deployment/configure-waf.png" "AWS WAF Web ACL" >}}
 
 ## Kiểm tra kết quả
 

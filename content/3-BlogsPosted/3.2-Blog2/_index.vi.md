@@ -13,7 +13,7 @@ AWS đưa ra một kiến trúc rất phù hợp: AWS Transfer Family Web Apps k
 
 
 
-![anh tu bai blog](/images/3-blog/blog2.png)
+{{< img "images/3-Blog/blog2.png" "anh tu bai blog" >}}
 
 **Kiến trúc tổng quan**
 

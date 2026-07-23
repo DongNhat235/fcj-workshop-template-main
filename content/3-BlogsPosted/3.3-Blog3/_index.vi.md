@@ -43,6 +43,6 @@ Kết luận
 AWS AppSync Event API là một hướng tiếp cận phù hợp khi ứng dụng .NET/React cần real-time communication theo mô hình publish/subscribe. Với kiến trúc này, backend gọn hơn, frontend vẫn nhận dữ liệu real-time, còn AWS đảm nhiệm phần hạ tầng WebSocket phía sau.
 
 
-![anh tu bai blog](/images/3-blog/blog3.png)
+{{< img "images/3-Blog/blog3.png" "anh tu bai blog" >}}
 
 [...Link...](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2206455833452710/?rdid=geoKRLwi2jjUs3tZ#)
